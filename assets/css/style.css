@@ -74,7 +74,7 @@ max-width: 2.5%!important;
   right: 0;
   bottom: 0;
   z-index: -1;
-  background-color: rgba(0, 0, 0, 0.5); /* Cambia el fondo oscuro del carrusel según tus necesidades */
+  background-color: rgba(0, 0, 0, 0.5);
 }
 
 
